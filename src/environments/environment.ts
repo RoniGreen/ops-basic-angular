@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'http://13.53.186.20:8080/api'
+  url: 'https://ec2-stage.ronigreenberg.com/api'
 };
 
 /*
